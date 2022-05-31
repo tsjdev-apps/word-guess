@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WordGuess": {
+      "commandName": "Project",
+      "commandLineArgs": "word-guess"
+    }
+  }
+}
